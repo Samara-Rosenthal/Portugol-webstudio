@@ -1,5 +1,6 @@
 # Portugol-webstudio
 Desenvolvendo pensamento computacional.
+
 programa {
 	funcao inicio() {
 		inteiro x, y
